@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dropwizard-metrics.iml" filepath="$PROJECT_DIR$/dropwizard-metrics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dropwizard-metrics-hello/dropwizard-metrics-hello.iml" filepath="$PROJECT_DIR$/dropwizard-metrics-hello/dropwizard-metrics-hello.iml" />
+    </modules>
+  </component>
+</project>
